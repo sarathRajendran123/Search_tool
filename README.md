@@ -7,6 +7,8 @@ This tool utilizes the following core libraries:
 - **FAISS (Facebook AI Similarity Search)** for efficient similarity-based searching.
 - **Gradio** for an interactive, user-friendly web interface.
 
+You can view this at:
+https://huggingface.co/spaces/sarathrajendran/SearchTool
 ---
 
 ## Features
